@@ -21,7 +21,7 @@ To install the project, you must have vs code, install node, mysql2, and express
 
 You use this project by opening your command line and typing npm start. Then you use an api app such as Insomnia or Postman to get access to all your data from the api.
 
-![screenshot](assets/screenshot.PNG)
+![screenshot](/ObjectRelationalMapping/Develop/assets/screenshot.PNG)
     
 
 ## Credits
